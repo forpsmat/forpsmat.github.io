@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://forpsmat.github.io/sitemap.html.gz
+Sitemap: https://forpsmat.github.io/app/sitemap.html.gz
+Sitemap: https://forpsmat.github.io/assets/sitemap.html.gz
+Sitemap: https://forpsmat.github.io/css/sitemap.html.gz
+Sitemap: https://forpsmat.github.io/data/sitemap.html.gz
+Sitemap: https://forpsmat.github.io/includes/sitemap.html.gz
+Sitemap: https://forpsmat.github.io/item/sitemap.html.gz
+Sitemap: https://forpsmat.github.io/src/sitemap.html.gz
